@@ -4,7 +4,6 @@ import ProfilePic from "./ProfilePic";
 const App = () => {
   return (
     <div className="text-red-500">
-      <ProfilePic />
     </div>
   );
 };
